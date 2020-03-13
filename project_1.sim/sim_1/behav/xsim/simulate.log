@@ -1,0 +1,88 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+pc = 00000000000000000000000000000000 sel 00 instout = 00100000000000010000000000000101
+rs =  0 rt =  0 rd =  0 , regdes = 0 ,write_in =          0 t =                     0
+ hello 0 = 00000000  , 1 =00000000 | 2= 00000000 d4  = 00000000
+                   0 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 7 
+pc = 00000000000000000000000000000100 sel 00 instout = 00100000000000110000000000000001
+rs =  0 rt =  1 rd =  x , regdes = 1 ,write_in =          5 t =                     1
+                   1 alu out = 00000005 ,writein =  00000005 , l1  = 00000000 , l2 = 00000005 , l3 = 00000001  , l4 = 00000000  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000001000 sel 00 instout = 00100000000000100000000000000000
+                   3 alu out = 00000001 ,writein =  00000001 , l1  = 00000000 , l2 = 00000001 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 0 
+rs =  0 rt =  3 rd =  x , regdes = 1 ,write_in =          1 t =                     3
+pc = 00000000000000000000000000001100 sel 00 instout = 00010000000000010000000000000011
+                   5 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 0 
+rs =  0 rt =  2 rd =  x , regdes = 1 ,write_in =          0 t =                     5
+pc = 00000000000000000000000000010000 sel 00 instout = 00000000010000010001000000100000
+rs =  0 rt =  1 rd =  x , regdes = x ,write_in = 4294967291 t =                     7
+                   7 alu out = fffffffb ,writein =  fffffffb , l1  = 00000000 , l2 = 00000005 , l3 = 00000005  , l4 = 00000000  , memout = xxxxxxxx , aluctr = 1 
+pc = 00000000000000000000000000010100 sel 00 instout = 00000000001000110000100000100010
+rs =  2 rt =  1 rd =  2 , regdes = 0 ,write_in =          5 t =                     9
+                   9 alu out = 00000005 ,writein =  00000005 , l1  = 00000000 , l2 = 00000005 , l3 = 00000005  , l4 = 00000000  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000011000 sel 00 instout = 00001000000000000000000000000011
+                  11 alu out = 00000004 ,writein =  00000004 , l1  = 00000005 , l2 = 00000001 , l3 = 00000001  , l4 = 00000005  , memout = 00000000 , aluctr = 1 
+rs =  1 rt =  3 rd =  1 , regdes = 0 ,write_in =          4 t =                    11
+pc = 00000000000000000000000000011100 sel 01 instout = 00000000000000000000000000000000
+                  13 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = x 
+rs =  0 rt =  0 rd =  x , regdes = x ,write_in =          0 t =                    13
+pc = 00000000000000000000000000001100 sel 00 instout = 00010000000000010000000000000011
+rs =  0 rt =  0 rd =  0 , regdes = 0 ,write_in =          0 t =                    15
+                  15 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 7 
+pc = 00000000000000000000000000010000 sel 00 instout = 00000000010000010001000000100000
+rs =  0 rt =  1 rd =  x , regdes = x ,write_in = 4294967292 t =                    17
+                  17 alu out = fffffffc ,writein =  fffffffc , l1  = 00000000 , l2 = 00000004 , l3 = 00000004  , l4 = 00000000  , memout = xxxxxxxx , aluctr = 1 
+pc = 00000000000000000000000000010100 sel 00 instout = 00000000001000110000100000100010
+rs =  2 rt =  1 rd =  2 , regdes = 0 ,write_in =          9 t =                    19
+                  19 alu out = 00000009 ,writein =  00000009 , l1  = 00000005 , l2 = 00000004 , l3 = 00000004  , l4 = 00000005  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000011000 sel 00 instout = 00001000000000000000000000000011
+                  21 alu out = 00000003 ,writein =  00000003 , l1  = 00000004 , l2 = 00000001 , l3 = 00000001  , l4 = 00000004  , memout = 00000000 , aluctr = 1 
+rs =  1 rt =  3 rd =  1 , regdes = 0 ,write_in =          3 t =                    21
+pc = 00000000000000000000000000011100 sel 01 instout = 00000000000000000000000000000000
+                  23 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = x 
+rs =  0 rt =  0 rd =  x , regdes = x ,write_in =          0 t =                    23
+pc = 00000000000000000000000000001100 sel 00 instout = 00010000000000010000000000000011
+rs =  0 rt =  0 rd =  0 , regdes = 0 ,write_in =          0 t =                    25
+                  25 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 7 
+pc = 00000000000000000000000000010000 sel 00 instout = 00000000010000010001000000100000
+rs =  0 rt =  1 rd =  x , regdes = x ,write_in = 4294967293 t =                    27
+                  27 alu out = fffffffd ,writein =  fffffffd , l1  = 00000000 , l2 = 00000003 , l3 = 00000003  , l4 = 00000000  , memout = xxxxxxxx , aluctr = 1 
+pc = 00000000000000000000000000010100 sel 00 instout = 00000000001000110000100000100010
+rs =  2 rt =  1 rd =  2 , regdes = 0 ,write_in =         12 t =                    29
+                  29 alu out = 0000000c ,writein =  0000000c , l1  = 00000009 , l2 = 00000003 , l3 = 00000003  , l4 = 00000009  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000011000 sel 00 instout = 00001000000000000000000000000011
+                  31 alu out = 00000002 ,writein =  00000002 , l1  = 00000003 , l2 = 00000001 , l3 = 00000001  , l4 = 00000003  , memout = 00000000 , aluctr = 1 
+rs =  1 rt =  3 rd =  1 , regdes = 0 ,write_in =          2 t =                    31
+pc = 00000000000000000000000000011100 sel 01 instout = 00000000000000000000000000000000
+                  33 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = x 
+rs =  0 rt =  0 rd =  x , regdes = x ,write_in =          0 t =                    33
+pc = 00000000000000000000000000001100 sel 00 instout = 00010000000000010000000000000011
+rs =  0 rt =  0 rd =  0 , regdes = 0 ,write_in =          0 t =                    35
+                  35 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 7 
+pc = 00000000000000000000000000010000 sel 00 instout = 00000000010000010001000000100000
+rs =  0 rt =  1 rd =  x , regdes = x ,write_in = 4294967294 t =                    37
+                  37 alu out = fffffffe ,writein =  fffffffe , l1  = 00000000 , l2 = 00000002 , l3 = 00000002  , l4 = 00000000  , memout = xxxxxxxx , aluctr = 1 
+pc = 00000000000000000000000000010100 sel 00 instout = 00000000001000110000100000100010
+rs =  2 rt =  1 rd =  2 , regdes = 0 ,write_in =         14 t =                    39
+                  39 alu out = 0000000e ,writein =  0000000e , l1  = 0000000c , l2 = 00000002 , l3 = 00000002  , l4 = 0000000c  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000011000 sel 00 instout = 00001000000000000000000000000011
+                  41 alu out = 00000001 ,writein =  00000001 , l1  = 00000002 , l2 = 00000001 , l3 = 00000001  , l4 = 00000002  , memout = 00000000 , aluctr = 1 
+rs =  1 rt =  3 rd =  1 , regdes = 0 ,write_in =          1 t =                    41
+pc = 00000000000000000000000000011100 sel 01 instout = 00000000000000000000000000000000
+                  43 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = x 
+rs =  0 rt =  0 rd =  x , regdes = x ,write_in =          0 t =                    43
+pc = 00000000000000000000000000001100 sel 00 instout = 00010000000000010000000000000011
+rs =  0 rt =  0 rd =  0 , regdes = 0 ,write_in =          0 t =                    45
+                  45 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = 7 
+pc = 00000000000000000000000000010000 sel 00 instout = 00000000010000010001000000100000
+rs =  0 rt =  1 rd =  x , regdes = x ,write_in = 4294967295 t =                    47
+                  47 alu out = ffffffff ,writein =  ffffffff , l1  = 00000000 , l2 = 00000001 , l3 = 00000001  , l4 = 00000000  , memout = xxxxxxxx , aluctr = 1 
+pc = 00000000000000000000000000010100 sel 00 instout = 00000000001000110000100000100010
+rs =  2 rt =  1 rd =  2 , regdes = 0 ,write_in =         15 t =                    49
+                  49 alu out = 0000000f ,writein =  0000000f , l1  = 0000000e , l2 = 00000001 , l3 = 00000001  , l4 = 0000000e  , memout = 00000000 , aluctr = 0 
+pc = 00000000000000000000000000011000 sel 00 instout = 00001000000000000000000000000011
+                  51 alu out = 00000000 ,writein =  00000000 , l1  = 00000001 , l2 = 00000001 , l3 = 00000001  , l4 = 00000001  , memout = 00000000 , aluctr = 1 
+rs =  1 rt =  3 rd =  1 , regdes = 0 ,write_in =          0 t =                    51
+pc = 00000000000000000000000000011100 sel 01 instout = 00000000000000000000000000000000
+                  53 alu out = 00000000 ,writein =  00000000 , l1  = 00000000 , l2 = 00000000 , l3 = 00000000  , l4 = 00000000  , memout = 00000000 , aluctr = x 
+rs =  0 rt =  0 rd =  x , regdes = x ,write_in =          0 t =                    53
+$finish called at time : 55 ns : File "/home/tanmay/project_1/project_1.srcs/sim_1/new/pro_tb.v" Line 37

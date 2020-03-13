@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/processor/processor.sim/sim_1/synth/timing/xsim/secStage_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module processor
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/alu32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu32
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/secStage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module secStage
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/tanmay/tanmay/processor/file/secStage_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module secStage_tb

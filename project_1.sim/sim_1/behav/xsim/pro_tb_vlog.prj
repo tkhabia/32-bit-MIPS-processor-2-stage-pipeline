@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/imports/file/alu32.v" \
+"../../../../project_1.srcs/sources_1/imports/file/datapath.v" \
+"../../../../project_1.srcs/sources_1/imports/file/decode.v" \
+"../../../../project_1.srcs/sources_1/imports/file/extend.v" \
+"../../../../project_1.srcs/sources_1/new/fetch.v" \
+"../../../../project_1.srcs/sources_1/new/processor.v" \
+"../../../../project_1.srcs/sources_1/imports/file/regfile.v" \
+"../../../../project_1.srcs/sources_1/imports/file/secStage.v" \
+"../../../../project_1.srcs/sim_1/new/pro_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

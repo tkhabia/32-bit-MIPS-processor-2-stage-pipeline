@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"secStage_tb_time_synth.v" \
+"../../../../../../tanmay/processor/file/alu32.v" \
+"../../../../../../tanmay/processor/file/datapath.v" \
+"../../../../../../tanmay/processor/file/decode.v" \
+"../../../../../../tanmay/processor/file/extend.v" \
+"../../../../../../tanmay/processor/file/regfile.v" \
+"../../../../../../tanmay/processor/file/secStage.v" \
+"../../../../../../tanmay/processor/file/secStage_tb.v" \
+
+# Do not sort compile order
+nosort

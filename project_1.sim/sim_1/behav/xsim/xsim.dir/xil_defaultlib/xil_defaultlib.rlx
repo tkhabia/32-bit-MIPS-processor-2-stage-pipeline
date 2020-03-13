@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/tanmay/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sim_1/new/pro_tb.v,1583868996,verilog,,,,pro_tb,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/alu32.v,1583867142,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/datapath.v,,alu32,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/datapath.v,1583771156,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/decode.v,,datapath,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/decode.v,1583876289,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/extend.v,,decode,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/extend.v,1580879058,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/new/fetch.v,,extend,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/regfile.v,1583771472,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/secStage.v,,regfile,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/secStage.v,1583770002,verilog,,/home/tanmay/project_1/project_1.srcs/sim_1/new/pro_tb.v,,secStage,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/new/fetch.v,1583869846,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/new/processor.v,,fetch,,,,,,,,
+/home/tanmay/project_1/project_1.srcs/sources_1/new/processor.v,1583853528,verilog,,/home/tanmay/project_1/project_1.srcs/sources_1/imports/file/regfile.v,,processor,,,,,,,,
